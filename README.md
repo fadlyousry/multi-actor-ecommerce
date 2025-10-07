@@ -55,7 +55,7 @@ A **feature-rich e-commerce platform** built with **HTML**, **CSS**, **JavaScrip
 **Usage**
 
 * Log in to *Seller Dashboard*.
-   **Email:** `seller@adminhub.com`
+   **Email:** `seller@sellhub.com`
    **Password:** `seller_5`
 * Add items via *Add Product*.
 * Edit or delete from *Manage Products*.
@@ -112,6 +112,6 @@ A **feature-rich e-commerce platform** built with **HTML**, **CSS**, **JavaScrip
 📄 Full Documentation
 
 For detailed explanations of each feature and page:
-📘 View or Download the Full PDF Documentation
+📘 [View or Download the Full PDF Documentation](./documentation.pdf)
 
 
