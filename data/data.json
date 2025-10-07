@@ -44,8 +44,8 @@
       "firstName": "Alaa",
       "lastName": "Hamdi",
       "phone": "01210677917",
-      "email": "alaa@sellhub.com",
-      "password": "alaa_sell_3",
+      "email": "seller@sellhub.com",
+      "password": "seller_5",
       "address": "123 Tanta, Egypt",
       "storeName": "Lola Store",
       "products": [
@@ -84,8 +84,8 @@
       "firstName": "Omnia",
       "lastName": "Eid",
       "phone": "01210677917",
-      "email": "omnia@adminhub.com",
-      "password": "omnia_admin_5",
+      "email": "admin@adminhub.com",
+      "password": "admin_5",
       "address": "123 Tanta, Egypt",
       "permissions": [
         "manage_users",
